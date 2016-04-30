@@ -1,4 +1,4 @@
 # hello-world
 Hi kind people!
 
-HTML5, JS & We together we make the world a better.
+HTML5, JS & We together make the world a better.
